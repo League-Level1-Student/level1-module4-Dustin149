@@ -16,7 +16,6 @@ public class ChuckleClicker implements ActionListener {
 	public void makeButtons() {
 		JFrame frame = new JFrame();
 		frame.setVisible(true);
-		
 		JPanel panel = new JPanel();
 		frame.add(panel);
 		
